@@ -1,2 +1,0 @@
-# School-erp
-School erp
